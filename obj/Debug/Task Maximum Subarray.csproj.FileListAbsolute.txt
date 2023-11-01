@@ -1,0 +1,7 @@
+C:\Users\mafon\source\repos\Task Maximum Subarray\bin\Debug\Task Maximum Subarray.exe.config
+C:\Users\mafon\source\repos\Task Maximum Subarray\bin\Debug\Task Maximum Subarray.exe
+C:\Users\mafon\source\repos\Task Maximum Subarray\bin\Debug\Task Maximum Subarray.pdb
+C:\Users\mafon\source\repos\Task Maximum Subarray\obj\Debug\Task Maximum Subarray.csproj.AssemblyReference.cache
+C:\Users\mafon\source\repos\Task Maximum Subarray\obj\Debug\Task Maximum Subarray.csproj.CoreCompileInputs.cache
+C:\Users\mafon\source\repos\Task Maximum Subarray\obj\Debug\Task Maximum Subarray.exe
+C:\Users\mafon\source\repos\Task Maximum Subarray\obj\Debug\Task Maximum Subarray.pdb
